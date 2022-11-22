@@ -1,0 +1,4 @@
+.idea
+**/themes/
+*.lock
+public
