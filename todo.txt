@@ -1,3 +1,32 @@
-Update links
-Add pages
-Push to gh pages
+PC page
+Homelab page
+Projects:
+	- Android Chatting app
+	- Space Invaders: PyGame
+	- MazeAR: MEC Hacks, Aether 2019
+	- Hacktoberfest 2019
+	- CovIndia - TallyBot, Sam, Sauron, Backend
+	- Efficient Temp and Humidity display
+	- RecommendWAh
+	- Discord bot
+	- Class bot
+	- Aurify Systems - Internship
+	- TEDxMahindraUniversity - Website
+	- Pop and block - OOP project
+	- Parallelized block matrix multiplication
+	- Project Xtended - Custom ROM maintainer Violet (Redmi Note 7 Pro)
+	- RobotSteve
+	- Hawkeye
+	- SSHmon
+	- Hacktobot
+	- DBMS Classroom allocation project
+	- Project RECON
+	- Baja Embedded
+	- Turban culture - SIH winning Hackathon
+	- Custom Keyboard
+
+
+Stuff I did:
+	- Homelab: Servers + networking
+	- SysAdmin for server in college
+	- Switch and server setup for cluster - Mechanical prof - 10Gbit switch!
