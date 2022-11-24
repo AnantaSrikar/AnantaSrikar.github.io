@@ -2,8 +2,7 @@
 title = "About Me"
 description = "About - Srikar"
 date = "2022-11-17"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Ananta Srikar"
 +++
 
 I enjoy programming. My journey of coding began in my 8th grade when I learnt C. The year later I started learning C++, which went on till my 12th grade. I like to automate small, daily tasks. I dream of building a fully self-made automated house, with an AI integration (something like J.A.R.V.I.S.)
