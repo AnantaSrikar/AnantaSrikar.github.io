@@ -14,7 +14,7 @@ author = "Ananta Srikar"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Srikar's Personal Site"
 keywords = "blog,developer,personal"
-info = ["Abmbitious Student", "Custom ROM freak", "Embedded Systems"]
+info = ["Passionate Student", "Linux Fanboy", "Embedded Systems"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
