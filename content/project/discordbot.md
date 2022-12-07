@@ -6,7 +6,8 @@ description = "Project - Deployment in Progress"
 tags = [
     "discord",
     "bot",
+    "python",
 ]
 +++
 
-Man, this is by far one of the coolest projects I've ever made. A personalized discord bot that can do *almost* anything. It can 
+Work in progress, please come back later!
