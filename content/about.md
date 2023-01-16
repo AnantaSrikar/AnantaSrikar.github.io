@@ -5,7 +5,7 @@ date = "2022-11-17"
 author = "Ananta Srikar"
 +++
 
-I enjoy programming. My journey of coding began in my 8th grade when I learnt C. The year later I started learning C++, which went on till my 12th grade. I like to automate small, daily tasks. I dream of building a fully self-made automated house, with an AI integration (something like J.A.R.V.I.S.)
+I enjoy programming. My journey of coding began in my 8th grade when I learnt C. The year later I started learning C++, which went on till my 12<sup>th</sup> grade. I like to automate small, daily tasks. I dream of building a fully self-made automated house, with an AI integration (something like J.A.R.V.I.S.)
 
 # Flashback
 
@@ -14,4 +14,4 @@ I had a deep interest in computers from when I was a kid. I loved playing video 
 
 # Current day
 
-I'm currently studying the 7th semester in Computer Science at Mahindra École Centrale, Hyderabad. Working on multiple projects, keeping servers alive and eating a lot of Doritos.
+I'm currently working for [Futuristic Labs](https://www.getriku.com) as an Embedded Firmware Developer Intern while studying the 8<sup>th</sup> semester in Computer Science at Mahindra École Centrale, Hyderabad.
