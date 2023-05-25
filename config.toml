@@ -40,29 +40,6 @@ customSCSS = []
 # Custom JS
 customJS = []
 
-
-# If you want to use plausible(https://plausible.io) for analytics, add this section
-# [params.plausibleAnalytics]
-# domain = "example.com"
-# serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-
-# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
-# [params.goatCounter]
-# code = "code"
-
-# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-# [params.cloudflare]
-# token = "token"
-
-# If you want to use Matomo(https://matomo.org) for analytics, add this section
-# [params.matomo]
-# siteID = "ABCDE" # Default value is "1", overwrite this if you are cloud-hosting
-# serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
-
-# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-# [params.googleTagManager]
-# id = "gid"
-
 [taxonomies]
 category = "categories"
 series = "series"
@@ -119,7 +96,7 @@ url = "project/"
 [[languages.en.menu.main]]
 name = "Resume"
 weight = 5
-url = "resume/"
+url = "https://docs.srikar.tech/AnantaSrikar-CV-2023-05-25.pdf"
 
 
 [module]
