@@ -1,8 +1,6 @@
 PC page
 Homelab page
 Projects:
-	- Android Chatting app
-	- Space Invaders: PyGame
 	- MazeAR: MEC Hacks, Aether 2019
 	- Hacktoberfest 2019
 	- CovIndia - TallyBot, Sam, Sauron, Backend
@@ -14,6 +12,7 @@ Projects:
 	- TEDxMahindraUniversity - Website
 	- Pop and block - OOP project
 	- Parallelized block matrix multiplication
+	- Huffman encoding for text files
 	- Project Xtended - Custom ROM maintainer Violet (Redmi Note 7 Pro)
 	- RobotSteve
 	- Hawkeye
@@ -24,9 +23,12 @@ Projects:
 	- Baja Embedded
 	- Turban culture - SIH winning Hackathon
 	- Custom Keyboard
+	- USB Switcher
+	- Project BigBye
 
 
 Stuff I did:
+	- Custom PC build
 	- Homelab: Servers + networking
 	- SysAdmin for server in college
 	- Switch and server setup for cluster - Mechanical prof - 10Gbit switch!

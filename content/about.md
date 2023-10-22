@@ -14,4 +14,4 @@ I had a deep interest in computers from when I was a kid. I loved playing video 
 
 # Current day
 
-I'm currently working for [Futuristic Labs](https://www.getriku.com) as an Embedded Firmware Developer Intern while studying the 8<sup>th</sup> semester in Computer Science at Mahindra École Centrale, Hyderabad.
+I'm currently pursuing my Masters in Computer Engineering at Virginia Tech, US.
