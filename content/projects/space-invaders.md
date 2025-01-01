@@ -2,7 +2,7 @@
 author = "Ananta Srikar"
 title = "Space Invaders - PyGame"
 date = "2020-01-14"
-description = "Project - Deployment in Progress"
+description = "Project - Space Invaders - PyGame"
 tags = [
     "game",
     "gamedev",
