@@ -3,11 +3,13 @@ title = "Epoch101"
 #theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
-pygmentsStyle = "bw"
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "github-dark"
 
 [params]
 author = "Ananta Srikar"
@@ -97,8 +99,3 @@ url = "projects/"
 name = "Resume"
 weight = 5
 url = "https://docs.srikar.tech/Ananta_Srikar-CV.pdf"
-
-
-[module]
-[module.hugoVersion]
-min = "0.77.0"
